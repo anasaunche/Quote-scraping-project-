@@ -1,4 +1,4 @@
 # Quote-scraping-project-
-Learning project
-This project is a web scraping project using python and a website made for practicing this purpose.
-Skills to improve with this project: objects creation, list comprenhension, libraries like requests and BeatifulSoup, among others
+
+This project is a simple web scraping project using python and libraries like BeautifulSoup4 and requests.
+With this exercise students can practice parsing, list comprehension, object oriented programming, importing files, among others.
